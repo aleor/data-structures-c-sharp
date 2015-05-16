@@ -10,6 +10,10 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
+            var nodeChain = new NodeChain();
+            nodeChain.Execute();
+
+            Console.ReadKey();
         }
     }
 }
