@@ -1,5 +1,5 @@
 ﻿
-namespace DataStructures
+namespace DataStructures.NodeChain
 {
     class Node
     {
